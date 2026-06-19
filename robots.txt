@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-8iqjxs.americandeathband.com/sitemap.xml
